@@ -1,7 +1,3 @@
-// Event Details page JavaScript
-// Student: [Your Name]
-
-// Sample events data (duplicate for demo purposes)
 const sampleEvents = [
     {
         id: 1,

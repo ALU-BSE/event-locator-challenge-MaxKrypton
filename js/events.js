@@ -1,7 +1,3 @@
-// Events page JavaScript
-// Student: [Your Name]
-
-// Sample events data (same as main.js - in real app would be in separate data file)
 const sampleEvents = [
     {
         id: 1,
